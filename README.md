@@ -32,8 +32,3 @@ This repository contains all the learnings that I am implementing while studying
 ## 🛠 Technologies Used  
 - **Language:** Java  
 - **Tools:** IntelliJ IDEA, Git, GitHub  
-
-## 🚀 How to Use  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/your-repo-name.git
