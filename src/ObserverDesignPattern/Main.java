@@ -17,6 +17,7 @@ public class Main {
         subject.getObservers();
 
         subject.notifyObservers();
+        System.out.println();
 
     }
 

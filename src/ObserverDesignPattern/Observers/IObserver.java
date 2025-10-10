@@ -1,6 +1,8 @@
 package ObserverDesignPattern.Observers;
 
-public interface IObserver {
+public abstract class IObserver {
 
-    public void update();
+    public void update(){
+
+    }
 }

@@ -2,7 +2,7 @@ package ObserverDesignPattern.Observers;
 
 import ObserverDesignPattern.Subject.Subject;
 
-public class Observer2 implements IObserver{
+public class Observer2 extends IObserver{
 
     public Observer2(Subject subject) {
         System.out.println("Observer2 has been added to the list of observers");
