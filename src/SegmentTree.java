@@ -1,6 +1,3 @@
-package ObserverDesignPattern.Subject;
-
-
 import java.util.Arrays;
 import java.util.Scanner;
 
