@@ -5,9 +5,9 @@ import ObserverDesignPattern.Observers.IObserver;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Subject implements ISubject, IObserver{
+public class Subject extends IObserver implements ISubject{
 
-    public static Subject subject;
+    private static Subject subject;
     private List<IObserver> observers;
 
     private Subject() {
